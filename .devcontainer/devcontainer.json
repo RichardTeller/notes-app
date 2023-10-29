@@ -22,7 +22,7 @@
 
 	// Configure tool-specific properties.
 	"customizations": {
-		"vscode": {
+        "vscode": {
             "extensions": [
                 "eamodio.gitlens",
                 "ms-azuretools.vscode-docker"
